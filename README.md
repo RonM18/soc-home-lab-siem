@@ -31,3 +31,4 @@ Build a virtualized Security Operations Center (SOC) home lab to practice log in
 * **Log Ingestion Configured:** Added `/var/log/auth.log` as a monitored data input on the Ubuntu forwarder and enabled `boot-start` persistence.
 * **Verification:** Confirmed real-time ingestion of Linux `sudo` and authentication events inside Splunk (`index=main host=soc-siem-home-lab`).
 <img width="1911" height="1077" alt="Screenshot 2026-11-17 at 10 46 13 PM" src="https://github.com/user-attachments/assets/bb8b40ea-122a-4040-ae4a-d248616363a4" />
+<img width="1297" height="846" alt="Screenshot 2026-11-17 at 11 02 51 PM" src="https://github.com/user-attachments/assets/d9c01573-4820-4350-8c20-6c2999b14047" />
